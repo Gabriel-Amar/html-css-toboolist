@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F6F8F9;
+}
+.circle-blue{
+    background-color: #47ADF1;
+    padding: 5px;
+    border-radius: 2px;
+}
+.circle-white{
+    color: #CACFD4;
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 2px;
+    border: 1px solid #CACFD4;
+}
+header{
+    height: 65px;
+    background-color: white;
+}
+img{
+    height: 50px;
+    margin: 5px;
+}
+.titolo{
+    display: inline-block;
+    font-size: 25px;
+}
+section{
+    margin: auto;
+    margin-top: 60px;
+    width: 60%;
+    height: 50px;
+    background-color: white;
+    border-radius: 15px 15px 0px 0px; 
+    
+}
+section div{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
